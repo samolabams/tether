@@ -24,9 +24,9 @@ To run this service, you need to have the following dependencies installed:
 * Run `npm run build` to build project
 * Run `npm run start` to start project (Navigate to src/main.ts to see example usage)
 
-# What is Missing
-Proper Data Validation -> Data and options should be fully validated
-Race condition Management -> A consensus algorithm should be implemented to avoid data race
-Partial Order Matching -> Orders are fully matched, a partial order matching should be implemented. Symbol is also ignore during matching
+## What is Missing
+* Proper Data Validation -> Data and options should be fully validated
+* Race condition Management -> A consensus algorithm should be implemented to avoid data race
+* Partial Order Matching -> Orders are fully matched, a partial order matching should be implemented. Symbol is also ignore during matching
 
 ### Thank You
